@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<TabbedPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:local1="clr-namespace:Hospital.vista"
+             xmlns:local2="clr-namespace:Hospital.vista.Config"
+              x:Class="Hospital.vista.Menu"
+              BarTextColor ="Whitesmoke" BarBackgroundColor="Green"
+              SelectedTabColor="whitesmoke"
+              UnselectedTabColor="#8DC78D" >
+    
+  <!--Pages can be added as references or inline-->
+    <local1:Tools Title ="Menú" IconImageSource="tools.png"/>
+    <local1:ProfileUser Title ="Mi Perfil" IconImageSource="User.png"/>
+    <local2:Config Title="Configuración" IconImageSource="settings.png"/>
+
+
+
+
+</TabbedPage>

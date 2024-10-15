@@ -1,0 +1,53 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<ContentView xmlns="http://xamarin.com/schemas/2014/forms" 
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="Hospital.vista.ResumenHospital.View_2">
+
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="auto"/>
+            <RowDefinition Height="auto"/>
+            <RowDefinition Height="auto"/>
+            <RowDefinition Height="auto"/>
+            <RowDefinition Height="auto"/>
+            <RowDefinition Height="auto"/>
+            
+        </Grid.RowDefinitions>
+
+        <Image Source= "https://i.ibb.co/D7wVMC5/View2.png"
+               Grid.Row="0"
+               Margin="8,0,8,0"/>
+        <!--Encabezado-->
+        <Label Text="Participantes" Grid.Row="1"
+               HorizontalOptions="Center"
+               FontAttributes="Bold"
+               VerticalOptions="Center"
+               FontSize="23"/>
+        <!--Cuerpo de texto-->
+        <Label Text="20-EISM-1-032  Joel Peña Báez" Grid.Row="2"
+               HorizontalOptions="Center"
+               VerticalOptions="Center"
+               FontSize="16"/>
+        <Label Text="19-EISN-1-061  Jose Francisco" Grid.Row="3"
+               HorizontalOptions="Center"
+               VerticalOptions="Center"
+               FontSize="16"/>
+        <Label Text="Abel Aquino Gonzalez 19-MIST-1-031"  Grid.Row="4"
+               HorizontalOptions="Center"
+               VerticalOptions="Center"
+               FontSize="16"/>
+
+        <Label Text="20-SISN-1-049 Tomas Encarnacion "  Grid.Row="5"
+               HorizontalOptions="Center"
+               VerticalOptions="Center"
+               FontSize="16"/>
+
+        <Label Text="17-EISM-1-031 Frederick Cabral"  Grid.Row="6"
+               HorizontalOptions="Center"
+               VerticalOptions="Center"
+               FontSize="16"/>
+
+    </Grid>
+
+</ContentView>

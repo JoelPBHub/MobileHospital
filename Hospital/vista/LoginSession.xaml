@@ -1,0 +1,85 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="Hospital.vista.LoginSession">
+    
+    <Grid BackgroundColor="GhostWhite">
+    <Grid  Margin="20">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="auto"/>
+            <RowDefinition Height="auto"/>
+            <RowDefinition Height="*"/>
+        </Grid.RowDefinitions>
+        <Grid VerticalOptions="Center" Grid.Row="0">
+            <Grid.RowDefinitions>
+                <RowDefinition Height="auto"/>
+                <RowDefinition Height="auto"/>
+            </Grid.RowDefinitions>
+            
+            <Image Source= "https://i.ibb.co/PDPjgcd/Logo-Hospital.png" 
+                   HeightRequest="250"
+                   WidthRequest="250"
+                   Grid.Row="0"
+                   VerticalOptions="Center"/>
+            
+            <Label Text="Centro Medico Xamarin" 
+                   Grid.Row="1"
+                   HorizontalOptions="Center"
+                   FontSize="40"
+                   FontAttributes="Bold"/>
+            
+        </Grid>
+
+        <StackLayout Grid.Row="1">
+            <StackLayout Orientation="Horizontal">
+                <Image WidthRequest="25"  Source="https://i.ibb.co/sjM09sv/email-open-envelope-in-a-rounded-square-icon-icons-com-70497.png" />
+                <Entry Placeholder="Correo" 
+                   x:Name="UserLog" 
+                   PlaceholderColor="AntiqueWhite" 
+                   FontAttributes="Bold" 
+                   WidthRequest="300"/>
+            </StackLayout>
+            <StackLayout Orientation="Horizontal">
+                <Image WidthRequest="25"  Source= "https://i.ibb.co/2FvT8VQ/password-icon-183875.png" />
+                    <Entry Placeholder="Contraseña" 
+                   x:Name="Passlog" 
+                   PlaceholderColor="AntiqueWhite" 
+                   FontAttributes="Bold" 
+                   WidthRequest="300"/>
+            </StackLayout>
+
+            <Button Text="Iniciar" 
+                    x:Name="btnIniciarLog"
+                    BackgroundColor="DarkBlue"
+                    TextColor="white" 
+                    CornerRadius="10"
+                    FontSize="16"
+                    FontAttributes="Bold"
+                    HorizontalOptions="Center"
+                    Clicked="btnIniciarLog_Clicked"/>
+            <Button Text="Crear una cuenta"
+                    x:Name="btnNewAccount"
+                    TextColor="DarkBlue"
+                    FontAttributes="Bold"
+                    FontSize="16"
+                    TextTransform="None"
+                    Clicked="btnNewAccount_Clicked"/>
+
+
+        </StackLayout>
+        <StackLayout HorizontalOptions="Center" Grid.Row="2"
+                     Orientation="Horizontal">
+
+               <Label Text="Una app por"
+                   HorizontalTextAlignment="Center"
+                   TextColor="#747476"/>
+                <Label Text="Grupo 707"
+                   HorizontalTextAlignment="Center"
+                   TextColor="#43779A"/>
+
+            </StackLayout>
+            
+       </Grid>
+    </Grid>
+    
+</ContentPage>

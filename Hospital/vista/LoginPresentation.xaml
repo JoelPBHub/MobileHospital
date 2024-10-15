@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="Hospital.vista.LoginPresentation">
+
+
+    <Grid>
+        
+        <StackLayout VerticalOptions="CenterAndExpand">
+            <Image Source= "https://i.ibb.co/PDPjgcd/Logo-Hospital.png" x:Name="Logo"
+                   HeightRequest="150"/>
+            
+            <Label Text="Centro Medico Xamarin"
+                   HorizontalOptions="Center"
+                   FontSize="30"
+                   FontAttributes="Bold"/>
+            
+            <Label Text="from"
+                   HorizontalOptions="Center"
+                   HeightRequest="150"
+                   FontSize="15"/>
+            
+            <Label Text="GRUPO 707"
+                   HorizontalOptions="Center"
+                   FontSize="15"
+                   FontAttributes="Bold"/>
+       
+
+        </StackLayout>
+        
+    </Grid>
+       
+</ContentPage>

@@ -1,0 +1,57 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="Hospital.vista.Tools">
+
+    <Grid Margin="2,2,2,2">
+
+        <Button Text="Hospital" TextColor="White" 
+                x:Name="BtnHospital" Clicked="BtnHospital_Clicked" 
+                Background="HospitalTabla.jpg"
+                Grid.Row="0" Grid.Column="0"
+                HorizontalOptions="Center"
+                VerticalOptions="EndAndExpand"
+                FontSize="18"
+                FontAttributes="Bold"/>
+        
+        <Button Text="Pacientes" TextColor="White" 
+                x:Name="BtnEnfermo" Clicked="BtnEnfermo_Clicked" 
+                Background="EnfermoTabla.jpg"
+                Grid.Row="0" Grid.Column="1"
+                HorizontalOptions="Center"
+                VerticalOptions="EndAndExpand"
+                FontSize="18"
+                FontAttributes="Bold"/>
+        
+        <Button Text="Ocupaciones" TextColor="White" 
+                x:Name="BtnOcupacion" Clicked="BtnOcupacion_Clicked" 
+                Background="OcupacionTabla.jpg"
+                Grid.Row="0" Grid.Column="2"
+                HorizontalOptions="Center"
+                VerticalOptions="EndAndExpand"
+                FontSize="18"
+                FontAttributes="Bold"/>
+        
+        <Button Text="Plantilla" TextColor="White" 
+                x:Name="BtnPlantilla" Clicked="BtnPlantilla_Clicked" 
+                Background="PlantillaTable.jpg"
+                Grid.Row="1" Grid.Column="0"
+                HorizontalOptions="Center"
+                VerticalOptions="EndAndExpand"
+                FontSize="18"
+                FontAttributes="Bold"/>
+        
+        <Button Text="Sala" TextColor="White" 
+                x:Name="BtnSala" Clicked="BtnSala_Clicked" 
+                Background="SalaTabla.jpg"
+                Grid.Row="1" Grid.Column="1"
+                HorizontalOptions="Center"
+                VerticalOptions="EndAndExpand"
+                FontSize="18"
+                FontAttributes="Bold"/>
+
+
+
+    </Grid>
+
+</ContentPage>

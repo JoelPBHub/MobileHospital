@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="Hospital.vista.plantilla">
+    <ContentPage.Content>
+        <StackLayout BackgroundColor="WhiteSmoke" Spacing="50">
+            <Entry Placeholder="apellido" x:Name="txtapellido"/>
+            <Entry Placeholder="empleado_no" x:Name="txtempleado_no"/>
+            <Entry Placeholder="funcion" x:Name="txtfuncion"/>
+            <Entry Placeholder="hospital_cod" x:Name="txthospital_cod"/>
+            <Entry Placeholder="sala_cod" x:Name="txtsala_cod"/>
+            <Entry Placeholder="salario" x:Name="txtsalario"/>
+            <Entry Placeholder="turno" x:Name="txtturno"/>
+
+
+
+            <Button Text="guardar" x:Name="btnguardar"
+                    Clicked="Btnguardar_clicked"
+                    BorderColor="Black"
+                    BackgroundColor="Aqua"/>
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>

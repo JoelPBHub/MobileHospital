@@ -1,0 +1,53 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="Hospital.vista.MakeUser">
+
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="auto"/>
+            <RowDefinition Height="auto"/>
+            <RowDefinition Height="auto"/>
+
+        </Grid.RowDefinitions>
+
+        <Image Source= "https://i.ibb.co/f1DjQzK/Profile.png" Grid.Row="0" Margin="0,20,0,0"/>
+
+        <StackLayout Grid.Row="1"
+                     Margin="20"
+                     Orientation="Vertical">
+            <StackLayout Orientation="Horizontal" HeightRequest="50">
+                <Button Text="Subir Foto"
+                        BackgroundColor="#2F1E43"
+                        TextColor="White"
+                        CornerRadius="10"/>
+            </StackLayout>
+
+            <Entry Placeholder="Nombre"
+                   FontAttributes="Bold" 
+                   x:Name="txtUser"/>
+            <Entry Placeholder="Cargo"
+                   FontAttributes="Bold"/>
+            <Entry Placeholder="Correo Electrónico"
+                   FontAttributes="Bold"
+                   x:Name="txtCorreo"/>
+            <Entry Placeholder="Contraseña"
+                   FontAttributes="Bold"
+                   x:Name="txtContraseña"
+                   IsPassword="True"/>
+
+            <Button Text="Crear Cuenta"
+                    BackgroundColor="DarkBlue"
+                    TextColor="white"
+                    CornerRadius="10"
+                    WidthRequest="200"
+                    HorizontalOptions="Center"
+                    FontAttributes="Bold"
+                    FontSize="18"
+                    x:Name="btnMakeUser"
+                    Clicked="btnMakeUser_Clicked"/>
+
+        </StackLayout>
+ 
+    </Grid>
+</ContentPage>

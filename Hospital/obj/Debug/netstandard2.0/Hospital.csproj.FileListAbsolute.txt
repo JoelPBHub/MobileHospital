@@ -1,0 +1,53 @@
+C:\Users\JOSE\Desktop\proyecto xamarin\Hospital\Hospital\Hospital\obj\Debug\netstandard2.0\Hospital.csproj.AssemblyReference.cache
+C:\Users\JOSE\Desktop\proyecto xamarin\Hospital\Hospital\Hospital\obj\Debug\netstandard2.0\Hospital.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\JOSE\Desktop\proyecto xamarin\Hospital\Hospital\Hospital\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\JOSE\Desktop\proyecto xamarin\Hospital\Hospital\Hospital\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\JOSE\Desktop\proyecto xamarin\Hospital\Hospital\Hospital\obj\Debug\netstandard2.0\vista\hospitales.xaml.g.cs
+C:\Users\JOSE\Desktop\proyecto xamarin\Hospital\Hospital\Hospital\obj\Debug\netstandard2.0\Hospital.AssemblyInfoInputs.cache
+C:\Users\JOSE\Desktop\proyecto xamarin\Hospital\Hospital\Hospital\obj\Debug\netstandard2.0\Hospital.AssemblyInfo.cs
+C:\Users\JOSE\Desktop\proyecto xamarin\Hospital\Hospital\Hospital\obj\Debug\netstandard2.0\Hospital.csproj.CoreCompileInputs.cache
+C:\Users\JOSE\Desktop\proyecto xamarin\Hospital\Hospital\Hospital\obj\Debug\netstandard2.0\Hospital.dll
+C:\Users\JOSE\Desktop\proyecto xamarin\Hospital\Hospital\Hospital\obj\Debug\netstandard2.0\refint\Hospital.dll
+C:\Users\JOSE\Desktop\proyecto xamarin\Hospital\Hospital\Hospital\obj\Debug\netstandard2.0\Hospital.pdb
+C:\Users\JOSE\Desktop\proyecto xamarin\Hospital\Hospital\Hospital\bin\Debug\netstandard2.0\Hospital.deps.json
+C:\Users\JOSE\Desktop\proyecto xamarin\Hospital\Hospital\Hospital\bin\Debug\netstandard2.0\Hospital.dll
+C:\Users\JOSE\Desktop\proyecto xamarin\Hospital\Hospital\Hospital\bin\Debug\netstandard2.0\Hospital.pdb
+C:\Users\JOSE\Desktop\proyecto xamarin\Hospital\Hospital\Hospital\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\JOSE\Desktop\proyecto xamarin\Hospital\Hospital\Hospital\obj\Debug\netstandard2.0\ref\Hospital.dll
+C:\Users\JOSE\Desktop\proyecto xamarin\Hospital\Hospital\Hospital\obj\Debug\netstandard2.0\vista\enfermos.xaml.g.cs
+C:\Users\JOSE\Desktop\proyecto xamarin\Hospital\Hospital\Hospital\obj\Debug\netstandard2.0\vista\LoginPresentation.xaml.g.cs
+C:\Users\JOSE\Desktop\proyecto xamarin\Hospital\Hospital\Hospital\obj\Debug\netstandard2.0\vista\LoginSession.xaml.g.cs
+C:\Users\JOSE\Desktop\proyecto xamarin\Hospital\Hospital\Hospital\obj\Debug\netstandard2.0\vista\MakeUser.xaml.g.cs
+C:\Users\JOSE\Desktop\proyecto xamarin\Hospital\Hospital\Hospital\obj\Debug\netstandard2.0\vista\ResumenHospital\PrimerosPasos.xaml.g.cs
+C:\Users\JOSE\Desktop\proyecto xamarin\Hospital\Hospital\Hospital\obj\Debug\netstandard2.0\vista\ResumenHospital\View-1.xaml.g.cs
+C:\Users\JOSE\Desktop\proyecto xamarin\Hospital\Hospital\Hospital\obj\Debug\netstandard2.0\vista\ResumenHospital\View-2.xaml.g.cs
+C:\Users\JOSE\Downloads\Hospital707 Prueba 4\Hospital\Hospital\Hospital\bin\Debug\netstandard2.0\Hospital.deps.json
+C:\Users\JOSE\Downloads\Hospital707 Prueba 4\Hospital\Hospital\Hospital\bin\Debug\netstandard2.0\Hospital.dll
+C:\Users\JOSE\Downloads\Hospital707 Prueba 4\Hospital\Hospital\Hospital\bin\Debug\netstandard2.0\Hospital.pdb
+C:\Users\JOSE\Downloads\Hospital707 Prueba 4\Hospital\Hospital\Hospital\obj\Debug\netstandard2.0\Hospital.csproj.AssemblyReference.cache
+C:\Users\JOSE\Downloads\Hospital707 Prueba 4\Hospital\Hospital\Hospital\obj\Debug\netstandard2.0\Hospital.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\JOSE\Downloads\Hospital707 Prueba 4\Hospital\Hospital\Hospital\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\JOSE\Downloads\Hospital707 Prueba 4\Hospital\Hospital\Hospital\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\JOSE\Downloads\Hospital707 Prueba 4\Hospital\Hospital\Hospital\obj\Debug\netstandard2.0\vista\Config\Config.xaml.g.cs
+C:\Users\JOSE\Downloads\Hospital707 Prueba 4\Hospital\Hospital\Hospital\obj\Debug\netstandard2.0\vista\enfermos.xaml.g.cs
+C:\Users\JOSE\Downloads\Hospital707 Prueba 4\Hospital\Hospital\Hospital\obj\Debug\netstandard2.0\vista\hospitales.xaml.g.cs
+C:\Users\JOSE\Downloads\Hospital707 Prueba 4\Hospital\Hospital\Hospital\obj\Debug\netstandard2.0\vista\LoginPresentation.xaml.g.cs
+C:\Users\JOSE\Downloads\Hospital707 Prueba 4\Hospital\Hospital\Hospital\obj\Debug\netstandard2.0\vista\LoginSession.xaml.g.cs
+C:\Users\JOSE\Downloads\Hospital707 Prueba 4\Hospital\Hospital\Hospital\obj\Debug\netstandard2.0\vista\MakeUser.xaml.g.cs
+C:\Users\JOSE\Downloads\Hospital707 Prueba 4\Hospital\Hospital\Hospital\obj\Debug\netstandard2.0\vista\Menu.xaml.g.cs
+C:\Users\JOSE\Downloads\Hospital707 Prueba 4\Hospital\Hospital\Hospital\obj\Debug\netstandard2.0\vista\ocupacion.xaml.g.cs
+C:\Users\JOSE\Downloads\Hospital707 Prueba 4\Hospital\Hospital\Hospital\obj\Debug\netstandard2.0\vista\plantilla.xaml.g.cs
+C:\Users\JOSE\Downloads\Hospital707 Prueba 4\Hospital\Hospital\Hospital\obj\Debug\netstandard2.0\vista\ProfileUser.xaml.g.cs
+C:\Users\JOSE\Downloads\Hospital707 Prueba 4\Hospital\Hospital\Hospital\obj\Debug\netstandard2.0\vista\ResumenHospital\PrimerosPasos.xaml.g.cs
+C:\Users\JOSE\Downloads\Hospital707 Prueba 4\Hospital\Hospital\Hospital\obj\Debug\netstandard2.0\vista\ResumenHospital\View-1.xaml.g.cs
+C:\Users\JOSE\Downloads\Hospital707 Prueba 4\Hospital\Hospital\Hospital\obj\Debug\netstandard2.0\vista\ResumenHospital\View-2.xaml.g.cs
+C:\Users\JOSE\Downloads\Hospital707 Prueba 4\Hospital\Hospital\Hospital\obj\Debug\netstandard2.0\vista\sala.xaml.g.cs
+C:\Users\JOSE\Downloads\Hospital707 Prueba 4\Hospital\Hospital\Hospital\obj\Debug\netstandard2.0\vista\Tools.xaml.g.cs
+C:\Users\JOSE\Downloads\Hospital707 Prueba 4\Hospital\Hospital\Hospital\obj\Debug\netstandard2.0\Hospital.AssemblyInfoInputs.cache
+C:\Users\JOSE\Downloads\Hospital707 Prueba 4\Hospital\Hospital\Hospital\obj\Debug\netstandard2.0\Hospital.AssemblyInfo.cs
+C:\Users\JOSE\Downloads\Hospital707 Prueba 4\Hospital\Hospital\Hospital\obj\Debug\netstandard2.0\Hospital.csproj.CoreCompileInputs.cache
+C:\Users\JOSE\Downloads\Hospital707 Prueba 4\Hospital\Hospital\Hospital\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\JOSE\Downloads\Hospital707 Prueba 4\Hospital\Hospital\Hospital\obj\Debug\netstandard2.0\Hospital.dll
+C:\Users\JOSE\Downloads\Hospital707 Prueba 4\Hospital\Hospital\Hospital\obj\Debug\netstandard2.0\refint\Hospital.dll
+C:\Users\JOSE\Downloads\Hospital707 Prueba 4\Hospital\Hospital\Hospital\obj\Debug\netstandard2.0\Hospital.pdb
+C:\Users\JOSE\Downloads\Hospital707 Prueba 4\Hospital\Hospital\Hospital\obj\Debug\netstandard2.0\ref\Hospital.dll
